@@ -5,7 +5,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playwrite+Indonesia&size=31&pause=1000&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Hello%2C+my+name+is+Jackson+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playwrite+Indonesia&weight=800&size=25&duration=4000&pause=1000&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=&width=435&lines=Welcome+%F0%9F%98%81;My+name+is+Jackson;I'm+31+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
 
 </div>
 
