@@ -1,13 +1,10 @@
 <img width=100% bottom=50px src="https://github.com/jacksonvsousa/jacksonvsousa/assets/173311884/9b6c8817-3967-4b12-a990-53e24bad5999"/>
 <br>
-<br>
-<br>
-
-<div align="center">
+<br> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playwrite+Indonesia&weight=800&size=25&duration=4000&pause=1000&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=&width=435&lines=Welcome+%F0%9F%98%81;My+name+is+Jackson;I'm+31+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Jackson;I'm+31+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
-</div>
+<br>
 
 <div align="center">
 
